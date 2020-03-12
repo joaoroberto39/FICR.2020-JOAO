@@ -1,2 +1,4 @@
 const name = "joao roberto"
-console.log("meu nome gostoso é : " + name );
+const projac = "ficr";
+console.log("meu nome gostoso é : " + name + "estudo no : " + projac );
+
